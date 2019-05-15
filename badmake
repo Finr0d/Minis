@@ -1,0 +1,9 @@
+#!/bin/sh
+# Sam Rowe
+#
+# This script is 100% definately necessary and not superfluous.
+# To use this, keep it in the base directory, where all project files belong to seperate sub directories.
+cd $1;
+rm $1;
+g++ -o $1 *;
+
