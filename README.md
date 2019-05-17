@@ -9,3 +9,7 @@ The main purpose for this is to provide code samples, a place to store work and 
 ## badmake
 
 *badmake* is a shell script that will build a C++ executable from a directory of files
+
+## Lincensing
+
+This project uses the [Unlicense](UNLICENSE.txt) so that anyone can freely use any code in this repository for whatever they want. As mentioned earlier, I highly doubt a viable use-case will exist for these projects, as such this license will be sufficient.
