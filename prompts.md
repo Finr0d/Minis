@@ -5,4 +5,6 @@
 - [Project Euler](https://projecteuler.net/)
 - [Sphere Online Judge](https://www.spoj.com/problems/classical/)
 - [Rosetta Code](rosettacode.org/wiki/Category:Programming_Tasks)
+- [Andrew Combs' Blog](andrewcombs13.com/projectIdeas/)
 - Generic programming boards
+
